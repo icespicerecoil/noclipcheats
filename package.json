@@ -1,9 +1,0 @@
-{
-  "name": "noclip-root",
-  "private": true,
-  "scripts": {
-    "build": "cd client && npm install && npm run build",
-    "dev": "cd client && npm run dev"
-  },
-  "dependencies": {}
-}
